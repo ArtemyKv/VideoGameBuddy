@@ -20,6 +20,12 @@
 		B636D05E2A7B6FE300AC0FF2 /* ListGameRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D05D2A7B6FE300AC0FF2 /* ListGameRow.swift */; };
 		B636D0602A7B701100AC0FF2 /* GridGameRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D05F2A7B701100AC0FF2 /* GridGameRow.swift */; };
 		B636D0632A7B772500AC0FF2 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D0622A7B772500AC0FF2 /* NetworkService.swift */; };
+		B636D0652A7B813800AC0FF2 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D0642A7B813800AC0FF2 /* Game.swift */; };
+		B636D0682A7B814E00AC0FF2 /* Genre.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D0672A7B814E00AC0FF2 /* Genre.swift */; };
+		B636D06A2A7B815E00AC0FF2 /* Platform.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D0692A7B815E00AC0FF2 /* Platform.swift */; };
+		B636D06C2A7B8E2400AC0FF2 /* AuthorizationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D06B2A7B8E2400AC0FF2 /* AuthorizationManager.swift */; };
+		B636D06E2A7B8FF900AC0FF2 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D06D2A7B8FF900AC0FF2 /* Constants.swift */; };
+		B636D0702A7B944500AC0FF2 /* AccessToken.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D06F2A7B944500AC0FF2 /* AccessToken.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +43,12 @@
 		B636D05D2A7B6FE300AC0FF2 /* ListGameRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListGameRow.swift; sourceTree = "<group>"; };
 		B636D05F2A7B701100AC0FF2 /* GridGameRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridGameRow.swift; sourceTree = "<group>"; };
 		B636D0622A7B772500AC0FF2 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
+		B636D0642A7B813800AC0FF2 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		B636D0672A7B814E00AC0FF2 /* Genre.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Genre.swift; sourceTree = "<group>"; };
+		B636D0692A7B815E00AC0FF2 /* Platform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Platform.swift; sourceTree = "<group>"; };
+		B636D06B2A7B8E2400AC0FF2 /* AuthorizationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorizationManager.swift; sourceTree = "<group>"; };
+		B636D06D2A7B8FF900AC0FF2 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		B636D06F2A7B944500AC0FF2 /* AccessToken.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessToken.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +85,7 @@
 				B636D03B2A7A951F00AC0FF2 /* ContentView.swift */,
 				B636D0492A7AAD5000AC0FF2 /* Modules */,
 				B636D0612A7B771000AC0FF2 /* Services */,
+				B636D0662A7B813C00AC0FF2 /* Model */,
 				B636D03D2A7A952000AC0FF2 /* Assets.xcassets */,
 				B636D03F2A7A952000AC0FF2 /* Preview Content */,
 			);
@@ -177,9 +190,22 @@
 		B636D0612A7B771000AC0FF2 /* Services */ = {
 			isa = PBXGroup;
 			children = (
+				B636D06F2A7B944500AC0FF2 /* AccessToken.swift */,
+				B636D06B2A7B8E2400AC0FF2 /* AuthorizationManager.swift */,
 				B636D0622A7B772500AC0FF2 /* NetworkService.swift */,
+				B636D06D2A7B8FF900AC0FF2 /* Constants.swift */,
 			);
 			path = Services;
+			sourceTree = "<group>";
+		};
+		B636D0662A7B813C00AC0FF2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B636D0642A7B813800AC0FF2 /* Game.swift */,
+				B636D0672A7B814E00AC0FF2 /* Genre.swift */,
+				B636D0692A7B815E00AC0FF2 /* Platform.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -252,14 +278,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B636D06A2A7B815E00AC0FF2 /* Platform.swift in Sources */,
 				B636D0632A7B772500AC0FF2 /* NetworkService.swift in Sources */,
+				B636D06C2A7B8E2400AC0FF2 /* AuthorizationManager.swift in Sources */,
 				B636D0482A7AAD4900AC0FF2 /* SearchView.swift in Sources */,
 				B636D0572A7AAEA800AC0FF2 /* FavoritesViewModel.swift in Sources */,
 				B636D05E2A7B6FE300AC0FF2 /* ListGameRow.swift in Sources */,
 				B636D0542A7AADC900AC0FF2 /* DetailsViewModel.swift in Sources */,
+				B636D06E2A7B8FF900AC0FF2 /* Constants.swift in Sources */,
 				B636D03C2A7A951F00AC0FF2 /* ContentView.swift in Sources */,
+				B636D0702A7B944500AC0FF2 /* AccessToken.swift in Sources */,
 				B636D05B2A7AAEC400AC0FF2 /* FavoritesView.swift in Sources */,
+				B636D0652A7B813800AC0FF2 /* Game.swift in Sources */,
 				B636D0602A7B701100AC0FF2 /* GridGameRow.swift in Sources */,
+				B636D0682A7B814E00AC0FF2 /* Genre.swift in Sources */,
 				B636D04D2A7AAD8000AC0FF2 /* SearchViewModel.swift in Sources */,
 				B636D0502A7AADA200AC0FF2 /* DetailsView.swift in Sources */,
 				B636D03A2A7A951F00AC0FF2 /* VideoGameBuddyApp.swift in Sources */,
@@ -399,6 +431,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -428,6 +461,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
