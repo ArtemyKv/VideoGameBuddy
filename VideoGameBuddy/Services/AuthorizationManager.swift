@@ -9,7 +9,8 @@ import Foundation
 
 enum APIRequestError: Error {
     case notAuthorized
-    case requestFailed
+    case wrongResponseType
+    case requestFailed(statusCode: Int)
 }
 
 protocol Authorization {
@@ -49,7 +50,7 @@ final class AuthorizationManager: Authorization {
                     authorized = true
                     accessToken?.save()
                 } catch let error {
-                    print("Access token loading error: \(error.localizedDescription)")
+                    print("Access token loading error: \(error)")
                 }
             }
             //                accessToken = try? await makeAccessToken()
@@ -61,7 +62,9 @@ final class AuthorizationManager: Authorization {
         let request = authorizationRequest()
         
         let (data, response) = try await URLSession.shared.data(for: request)
-        guard let httpResponse = response as? HTTPURLResponse, httpResponse.statusCode == 200 else { throw APIRequestError.requestFailed }
+        guard let httpResponse = response as? HTTPURLResponse else { throw APIRequestError.wrongResponseType }
+        guard httpResponse.statusCode == 200 else { throw APIRequestError.requestFailed(statusCode: httpResponse.statusCode) }
+        
         let accessToken = try JSONDecoder().decode(AccessToken.self, from: data)
         return accessToken
         

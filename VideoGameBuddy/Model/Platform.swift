@@ -7,14 +7,14 @@
 
 import Foundation
 
-struct Platform: Codable {
+struct Platform: Codable, Hashable {
     var id: Int
     var name: String
-    var logoID: Int
+    var logoID: Int?
     
     enum CodingKeys: String, CodingKey {
         case id
         case name
-        case logoID = "logo_id"
+        case logoID = "platform_logo"
     }
 }

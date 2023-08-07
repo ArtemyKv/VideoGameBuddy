@@ -11,7 +11,12 @@ struct AccessToken: Codable {
     static let userDefaultsKey = "AccessToken"
     
     var token: String
-    var expireDate: Date
+    var expireDate: Int
+    
+    enum CodingKeys: String, CodingKey {
+        case token = "access_token"
+        case expireDate = "expires_in"
+    }
     
     func save() {
         let tokenData = try? JSONEncoder().encode(self)

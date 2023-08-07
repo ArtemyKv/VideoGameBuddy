@@ -1,0 +1,152 @@
+
+{
+    "id": 1025,
+    "cover": {
+        "id": 86234,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 1025,
+        "height": 2046,
+        "image_id": "co1uje",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1uje.jpg",
+        "width": 1534,
+        "checksum": "ac424d0c-d5a6-4564-5065-fbdb109fdb9e"
+    },
+    "first_release_date": 537580800,
+    "genres": [
+        {
+            "id": 8,
+            "created_at": 1297555200,
+            "name": "Platform",
+            "slug": "platform",
+            "updated_at": 1323216000,
+            "url": "https://www.igdb.com/genres/platform",
+            "checksum": "697fc5a4-b96f-a803-288a-498bd5dd1de1"
+        },
+        {
+            "id": 12,
+            "created_at": 1297555200,
+            "name": "Role-playing (RPG)",
+            "slug": "role-playing-rpg",
+            "updated_at": 1323216000,
+            "url": "https://www.igdb.com/genres/role-playing-rpg",
+            "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+        },
+        {
+            "id": 31,
+            "created_at": 1323561600,
+            "name": "Adventure",
+            "slug": "adventure",
+            "updated_at": 1323561600,
+            "url": "https://www.igdb.com/genres/adventure",
+            "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+        }
+    ],
+    "name": "Zelda II: The Adventure of Link",
+    "platforms": [
+        {
+            "id": 5,
+            "abbreviation": "Wii",
+            "alternative_name": "Revolution",
+            "category": 1,
+            "created_at": 1297639288,
+            "generation": 7,
+            "name": "Wii",
+            "platform_logo": 326,
+            "platform_family": 5,
+            "slug": "wii",
+            "updated_at": 1615884750,
+            "url": "https://www.igdb.com/platforms/wii",
+            "versions": [
+                72,
+                283
+            ],
+            "websites": [
+                275
+            ],
+            "checksum": "d56c975f-909c-1af3-bdf6-e57c03e11bce"
+        },
+        {
+            "id": 18,
+            "abbreviation": "NES",
+            "alternative_name": "NES",
+            "category": 1,
+            "created_at": 1297941636,
+            "generation": 3,
+            "name": "Nintendo Entertainment System",
+            "platform_logo": 229,
+            "platform_family": 5,
+            "slug": "nes",
+            "updated_at": 1660212114,
+            "url": "https://www.igdb.com/platforms/nes",
+            "versions": [
+                53,
+                175
+            ],
+            "checksum": "e5286baa-27cd-f24d-bf1a-f37abb776219"
+        },
+        {
+            "id": 37,
+            "abbreviation": "3DS",
+            "alternative_name": "3DS",
+            "category": 5,
+            "created_at": 1317600000,
+            "generation": 8,
+            "name": "Nintendo 3DS",
+            "platform_logo": 240,
+            "platform_family": 5,
+            "slug": "3ds",
+            "updated_at": 1473984000,
+            "url": "https://www.igdb.com/platforms/3ds",
+            "versions": [
+                50
+            ],
+            "websites": [
+                9
+            ],
+            "checksum": "acee0d28-d3b8-b891-fc1c-768782c775a4"
+        },
+        {
+            "id": 41,
+            "abbreviation": "WiiU",
+            "category": 1,
+            "created_at": 1317686400,
+            "generation": 8,
+            "name": "Wii U",
+            "platform_logo": 239,
+            "platform_family": 5,
+            "slug": "wiiu",
+            "updated_at": 1489968000,
+            "url": "https://www.igdb.com/platforms/wiiu",
+            "versions": [
+                73
+            ],
+            "websites": [
+                10
+            ],
+            "checksum": "13712d1c-3c5d-44d8-2d54-b2adc47f5416"
+        },
+        {
+            "id": 51,
+            "abbreviation": "fds",
+            "alternative_name": "Famicom Disk System, FDS",
+            "category": 1,
+            "created_at": 1339250964,
+            "generation": 3,
+            "name": "Family Computer Disk System",
+            "platform_logo": 299,
+            "platform_family": 5,
+            "slug": "fds",
+            "updated_at": 1633117070,
+            "url": "https://www.igdb.com/platforms/fds",
+            "versions": [
+                38
+            ],
+            "checksum": "6518150e-93d8-5bae-b8f4-d68315f0ca7a"
+        }
+    ],
+    "rating": 65.7588350437503,
+    "storyline": "Several years after the events of The Legend of Zelda, Link has just turned sixteen and discovers a strange birthmark on his hand. With the help of Impa, Zelda's nursemaid, Link learns that this mark is the key to unlock a secret room where Princess Zelda lies sleeping. When young, Princess Zelda was given knowledge of the Triforce of power which was used to rule the kingdom of Hyrule, but when a magician unsuccessfully tried to find out about the Triforce from Zelda, he put her into an eternal sleep. In his grief, the prince placed Zelda in this room hoping she may wake some day. He ordered all female children in the royal household to be named Zelda from this point on, so the tragedy would not be forgotten. Now, to bring Princess Zelda back, Link must locate all the pieces of the Triforce which have been hidden throughout the land.",
+    "summary": "Zelda II: The Adventure of Link is the second major installment in The Legend of Zelda series and the direct sequel to the first game. Like its predecessor, it features dungeons that must be located in the overworld and searched for an item that will prove useful. However, the game presents many very important gameplay changes compared to the previous one, affecting especially the movements and the combat. Moving around the world map involves encounters with enemies that take place on a side-scrolling playfield rather than the top-down perspective for which the series became known."
+}
+

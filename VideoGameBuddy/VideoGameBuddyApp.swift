@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct VideoGameBuddyApp: App {
+    let builder = MainBuilder()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(builder)
         }
     }
 }

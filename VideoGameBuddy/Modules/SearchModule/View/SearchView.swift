@@ -8,13 +8,32 @@
 import SwiftUI
 
 struct SearchView: View {
+    @StateObject var viewModel: SearchViewModel
+    
+    @State private var searchText: String = ""
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ScrollView(.vertical, showsIndicators: true) {
+            LazyVStack {
+                ForEach(viewModel.rowViewModels, id: \.game) { rowViewModel in
+                    ListGameRow(rowViewModel: rowViewModel)
+                        .frame(height: 150)
+                }
+            }
+                .navigationTitle("Video Game Buddy")
+                .navigationBarTitleDisplayMode(.inline)
+                .searchable(text: $searchText, prompt: "Start searching games")
+                .onSubmit(of: .search) {
+                    viewModel.makeSearch(with: searchText)
+                }
+        }
     }
 }
 
 struct SearchView_Perviews: PreviewProvider {
+    static let builder = MainBuilder()
+    static let searchViewModel = builder.searchViewModel()
     static var previews: some View {
-        SearchView()
+        SearchView(viewModel: searchViewModel)
     }
 }

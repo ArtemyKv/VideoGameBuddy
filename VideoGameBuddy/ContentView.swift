@@ -8,13 +8,20 @@
 import SwiftUI
 
 struct ContentView: View {
+    @EnvironmentObject var builder: MainBuilder
+    
     var body: some View {
-        SearchView()
+        NavigationView {
+            SearchView(viewModel: builder.searchViewModel())
+        }
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
+    static let builder = MainBuilder()
+    
     static var previews: some View {
         ContentView()
+            .environmentObject(builder)
     }
 }
