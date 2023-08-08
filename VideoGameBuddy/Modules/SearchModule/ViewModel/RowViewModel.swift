@@ -6,10 +6,12 @@
 //
 
 import Foundation
-import SwiftUI
+import UIKit.UIImage
 
-final class RowViewModel {
+final class RowViewModel: ObservableObject {
     var game: Game
+    var networkService: APIService!
+    private var imageLoadingTask: Task<Void, Never>?
     
     var name: String = ""
     
@@ -17,21 +19,22 @@ final class RowViewModel {
     
     var platform: String = ""
     
-    var image: Image {
-        gameImage ?? Image(systemName: "photo")
-    }
-    
-    private var gameImage: Image?
+    @Published var image: UIImage = UIImage(systemName: "photo")!
     
     init(game: Game) {
         self.game = game
         setup()
     }
     
+    deinit {
+        imageLoadingTask?.cancel()
+    }
+    
     private func setup() {
         name = game.name
         releaseDate = releaseDateString() ?? ""
         platform = platformString()
+        getImage()
     }
     
     private func releaseDateString() -> String? {
@@ -51,5 +54,16 @@ final class RowViewModel {
             })
         platfomrsString.removeLast()
         return platfomrsString
+    }
+    
+    func getImage() {
+        guard let imageID = game.coverID else { return }
+        imageLoadingTask = Task { @MainActor in
+            do {
+                self.image = try await networkService.getImage(imageID: imageID)
+            } catch let error {
+                print(error)
+            }
+        }
     }
 }

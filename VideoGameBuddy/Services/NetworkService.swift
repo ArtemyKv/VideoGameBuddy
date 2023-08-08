@@ -6,11 +6,13 @@
 //
 
 import Foundation
+import UIKit.UIImage
 
 protocol APIService {
     init(authManager: Authorization)
     
     func searchGames(searchText: String) async throws -> [Game]
+    func getImage(imageID: String) async throws -> UIImage
 }
 
 enum Endpoint: String {
@@ -53,5 +55,29 @@ final class NetworkService: APIService {
         return request
     }
     
-//    func getImage(imageID: String) async throws ->
+    func getImage(imageID: String) async throws -> UIImage {
+        let endpoint = "/t_cover_big/\(imageID).jpg"
+        let url = APIConstants.URLs.imagesURL.appendingPathComponent(endpoint)
+        
+        let (data, _) = try await URLSession.shared.data(from: url)
+        guard let image = UIImage(data: data) else { throw APIRequestError.noImageFound }
+        return image
+        
+    }
+}
+
+final class PreviewNetworkService: APIService {
+    
+    init(authManager: Authorization) {
+        //empty for preview
+    }
+    
+    func searchGames(searchText: String) async throws -> [Game] {
+        let games = Game.previewList
+        return games
+    }
+    
+    func getImage(imageID: String) async throws -> UIImage {
+        UIImage(named: "test")!
+    }
 }

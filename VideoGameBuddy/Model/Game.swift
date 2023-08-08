@@ -60,4 +60,12 @@ extension Game {
         let previewGame = try! decoder.decode(Game.self, from: gameData)
         return previewGame
     }
+    
+    static var previewList: [Self] {
+        let decoder = JSONDecoder()
+        let gameDataURL = Bundle.main.url(forResource: "gamesListPreview", withExtension: "json")!
+        let gameData = try! Data(contentsOf: gameDataURL)
+        let previewGame = try! decoder.decode([Game].self, from: gameData)
+        return previewGame
+    }
 }

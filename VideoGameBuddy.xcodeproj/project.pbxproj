@@ -29,6 +29,7 @@
 		B636D0722A7C9DC100AC0FF2 /* RowViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D0712A7C9DC100AC0FF2 /* RowViewModel.swift */; };
 		B636D0742A7CA01300AC0FF2 /* gameExample.json in Resources */ = {isa = PBXBuildFile; fileRef = B636D0732A7CA01300AC0FF2 /* gameExample.json */; };
 		B636D0762A7F3C3900AC0FF2 /* Builder.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D0752A7F3C3900AC0FF2 /* Builder.swift */; };
+		B636D0782A807F9A00AC0FF2 /* gamesListPreview.json in Resources */ = {isa = PBXBuildFile; fileRef = B636D0772A807F9A00AC0FF2 /* gamesListPreview.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		B636D0712A7C9DC100AC0FF2 /* RowViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RowViewModel.swift; sourceTree = "<group>"; };
 		B636D0732A7CA01300AC0FF2 /* gameExample.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = gameExample.json; sourceTree = "<group>"; };
 		B636D0752A7F3C3900AC0FF2 /* Builder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Builder.swift; sourceTree = "<group>"; };
+		B636D0772A807F9A00AC0FF2 /* gamesListPreview.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = gamesListPreview.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			children = (
 				B636D0402A7A952000AC0FF2 /* Preview Assets.xcassets */,
 				B636D0732A7CA01300AC0FF2 /* gameExample.json */,
+				B636D0772A807F9A00AC0FF2 /* gamesListPreview.json */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B636D0782A807F9A00AC0FF2 /* gamesListPreview.json in Resources */,
 				B636D0412A7A952000AC0FF2 /* Preview Assets.xcassets in Resources */,
 				B636D0742A7CA01300AC0FF2 /* gameExample.json in Resources */,
 				B636D03E2A7A952000AC0FF2 /* Assets.xcassets in Resources */,

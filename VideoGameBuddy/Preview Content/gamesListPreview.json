@@ -1,0 +1,2137 @@
+[
+    {
+        "id": 1025,
+        "cover": {
+            "id": 86234,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 1025,
+            "height": 2046,
+            "image_id": "co1uje",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1uje.jpg",
+            "width": 1534,
+            "checksum": "ac424d0c-d5a6-4564-5065-fbdb109fdb9e"
+        },
+        "first_release_date": 537580800,
+        "genres": [
+            {
+                "id": 8,
+                "created_at": 1297555200,
+                "name": "Platform",
+                "slug": "platform",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/platform",
+                "checksum": "697fc5a4-b96f-a803-288a-498bd5dd1de1"
+            },
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "Zelda II: The Adventure of Link",
+        "platforms": [
+            {
+                "id": 5,
+                "abbreviation": "Wii",
+                "alternative_name": "Revolution",
+                "category": 1,
+                "created_at": 1297639288,
+                "generation": 7,
+                "name": "Wii",
+                "platform_logo": 326,
+                "platform_family": 5,
+                "slug": "wii",
+                "updated_at": 1615884750,
+                "url": "https://www.igdb.com/platforms/wii",
+                "versions": [
+                    72,
+                    283
+                ],
+                "websites": [
+                    275
+                ],
+                "checksum": "d56c975f-909c-1af3-bdf6-e57c03e11bce"
+            },
+            {
+                "id": 18,
+                "abbreviation": "NES",
+                "alternative_name": "NES",
+                "category": 1,
+                "created_at": 1297941636,
+                "generation": 3,
+                "name": "Nintendo Entertainment System",
+                "platform_logo": 229,
+                "platform_family": 5,
+                "slug": "nes",
+                "updated_at": 1660212114,
+                "url": "https://www.igdb.com/platforms/nes",
+                "versions": [
+                    53,
+                    175
+                ],
+                "checksum": "e5286baa-27cd-f24d-bf1a-f37abb776219"
+            },
+            {
+                "id": 37,
+                "abbreviation": "3DS",
+                "alternative_name": "3DS",
+                "category": 5,
+                "created_at": 1317600000,
+                "generation": 8,
+                "name": "Nintendo 3DS",
+                "platform_logo": 240,
+                "platform_family": 5,
+                "slug": "3ds",
+                "updated_at": 1473984000,
+                "url": "https://www.igdb.com/platforms/3ds",
+                "versions": [
+                    50
+                ],
+                "websites": [
+                    9
+                ],
+                "checksum": "acee0d28-d3b8-b891-fc1c-768782c775a4"
+            },
+            {
+                "id": 41,
+                "abbreviation": "WiiU",
+                "category": 1,
+                "created_at": 1317686400,
+                "generation": 8,
+                "name": "Wii U",
+                "platform_logo": 239,
+                "platform_family": 5,
+                "slug": "wiiu",
+                "updated_at": 1489968000,
+                "url": "https://www.igdb.com/platforms/wiiu",
+                "versions": [
+                    73
+                ],
+                "websites": [
+                    10
+                ],
+                "checksum": "13712d1c-3c5d-44d8-2d54-b2adc47f5416"
+            },
+            {
+                "id": 51,
+                "abbreviation": "fds",
+                "alternative_name": "Famicom Disk System, FDS",
+                "category": 1,
+                "created_at": 1339250964,
+                "generation": 3,
+                "name": "Family Computer Disk System",
+                "platform_logo": 299,
+                "platform_family": 5,
+                "slug": "fds",
+                "updated_at": 1633117070,
+                "url": "https://www.igdb.com/platforms/fds",
+                "versions": [
+                    38
+                ],
+                "checksum": "6518150e-93d8-5bae-b8f4-d68315f0ca7a"
+            }
+        ],
+        "rating": 65.7588350437503,
+        "storyline": "Several years after the events of The Legend of Zelda, Link has just turned sixteen and discovers a strange birthmark on his hand. With the help of Impa, Zelda's nursemaid, Link learns that this mark is the key to unlock a secret room where Princess Zelda lies sleeping. When young, Princess Zelda was given knowledge of the Triforce of power which was used to rule the kingdom of Hyrule, but when a magician unsuccessfully tried to find out about the Triforce from Zelda, he put her into an eternal sleep. In his grief, the prince placed Zelda in this room hoping she may wake some day. He ordered all female children in the royal household to be named Zelda from this point on, so the tragedy would not be forgotten. Now, to bring Princess Zelda back, Link must locate all the pieces of the Triforce which have been hidden throughout the land.",
+        "summary": "Zelda II: The Adventure of Link is the second major installment in The Legend of Zelda series and the direct sequel to the first game. Like its predecessor, it features dungeons that must be located in the overworld and searched for an item that will prove useful. However, the game presents many very important gameplay changes compared to the previous one, affecting especially the movements and the combat. Moving around the world map involves encounters with enemies that take place on a side-scrolling playfield rather than the top-down perspective for which the series became known."
+    },
+    {
+        "id": 1022,
+        "cover": {
+            "id": 86202,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 1022,
+            "height": 2045,
+            "image_id": "co1uii",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1uii.jpg",
+            "width": 1534,
+            "checksum": "e7829eb7-3965-7bb0-0fae-4d93511ef638"
+        },
+        "first_release_date": 509328000,
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda",
+        "platforms": [
+            {
+                "id": 5,
+                "abbreviation": "Wii",
+                "alternative_name": "Revolution",
+                "category": 1,
+                "created_at": 1297639288,
+                "generation": 7,
+                "name": "Wii",
+                "platform_logo": 326,
+                "platform_family": 5,
+                "slug": "wii",
+                "updated_at": 1615884750,
+                "url": "https://www.igdb.com/platforms/wii",
+                "versions": [
+                    72,
+                    283
+                ],
+                "websites": [
+                    275
+                ],
+                "checksum": "d56c975f-909c-1af3-bdf6-e57c03e11bce"
+            },
+            {
+                "id": 18,
+                "abbreviation": "NES",
+                "alternative_name": "NES",
+                "category": 1,
+                "created_at": 1297941636,
+                "generation": 3,
+                "name": "Nintendo Entertainment System",
+                "platform_logo": 229,
+                "platform_family": 5,
+                "slug": "nes",
+                "updated_at": 1660212114,
+                "url": "https://www.igdb.com/platforms/nes",
+                "versions": [
+                    53,
+                    175
+                ],
+                "checksum": "e5286baa-27cd-f24d-bf1a-f37abb776219"
+            },
+            {
+                "id": 37,
+                "abbreviation": "3DS",
+                "alternative_name": "3DS",
+                "category": 5,
+                "created_at": 1317600000,
+                "generation": 8,
+                "name": "Nintendo 3DS",
+                "platform_logo": 240,
+                "platform_family": 5,
+                "slug": "3ds",
+                "updated_at": 1473984000,
+                "url": "https://www.igdb.com/platforms/3ds",
+                "versions": [
+                    50
+                ],
+                "websites": [
+                    9
+                ],
+                "checksum": "acee0d28-d3b8-b891-fc1c-768782c775a4"
+            },
+            {
+                "id": 41,
+                "abbreviation": "WiiU",
+                "category": 1,
+                "created_at": 1317686400,
+                "generation": 8,
+                "name": "Wii U",
+                "platform_logo": 239,
+                "platform_family": 5,
+                "slug": "wiiu",
+                "updated_at": 1489968000,
+                "url": "https://www.igdb.com/platforms/wiiu",
+                "versions": [
+                    73
+                ],
+                "websites": [
+                    10
+                ],
+                "checksum": "13712d1c-3c5d-44d8-2d54-b2adc47f5416"
+            },
+            {
+                "id": 51,
+                "abbreviation": "fds",
+                "alternative_name": "Famicom Disk System, FDS",
+                "category": 1,
+                "created_at": 1339250964,
+                "generation": 3,
+                "name": "Family Computer Disk System",
+                "platform_logo": 299,
+                "platform_family": 5,
+                "slug": "fds",
+                "updated_at": 1633117070,
+                "url": "https://www.igdb.com/platforms/fds",
+                "versions": [
+                    38
+                ],
+                "checksum": "6518150e-93d8-5bae-b8f4-d68315f0ca7a"
+            },
+            {
+                "id": 99,
+                "abbreviation": "famicom",
+                "alternative_name": "Famicom",
+                "category": 1,
+                "created_at": 1428863630,
+                "generation": 3,
+                "name": "Family Computer",
+                "platform_logo": 277,
+                "platform_family": 5,
+                "slug": "famicom",
+                "updated_at": 1633117151,
+                "url": "https://www.igdb.com/platforms/famicom",
+                "versions": [
+                    123
+                ],
+                "checksum": "3e878454-b3da-ae45-1f81-63837be3a167"
+            }
+        ],
+        "rating": 81.23765916098394,
+        "storyline": "In one of the darkest times in the Kingdom of Hyrule, a young boy named Link takes on an epic quest to restore the fragmented Triforce of Wisdom and save the Princess Zelda from the clutches of the evil Ganon.",
+        "summary": "The Legend of Zelda is the first title in the Zelda series, it has marked the history of video games particularly for it's game mechanics and universe. The player controls Link and must make his way through the forests, graveyards, plains and deserts of the Otherworld to find the secret entrances to the eight dungeons and try to restore the broken Triforce. Among the game's mechanics, it was the first time we saw a continuous world that could be freely explored, power-ups that permanently enhanced the main character's abilities and a battery save feature that allowed players to keep their progress instead of having to start over. The gameplay balanced action sequences with discovery, secrets and exploration."
+    },
+    {
+        "id": 150080,
+        "cover": {
+            "id": 164200,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 150080,
+            "height": 280,
+            "image_id": "co3ip4",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3ip4.jpg",
+            "width": 210,
+            "checksum": "aa81a027-eaf2-609d-f515-774366dd0208"
+        },
+        "first_release_date": 1336262400,
+        "genres": [
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "BS The Legend of Zelda \"MottZilla Patch\"",
+        "platforms": [
+            {
+                "id": 19,
+                "abbreviation": "SNES",
+                "alternative_name": "SNES, Super Nintendo",
+                "category": 1,
+                "created_at": 1297941647,
+                "generation": 4,
+                "name": "Super Nintendo Entertainment System",
+                "platform_logo": 535,
+                "platform_family": 5,
+                "slug": "snes",
+                "updated_at": 1660212083,
+                "url": "https://www.igdb.com/platforms/snes",
+                "versions": [
+                    68,
+                    95,
+                    97,
+                    139,
+                    177,
+                    391
+                ],
+                "websites": [
+                    209
+                ],
+                "checksum": "8b2b4298-17ca-05a6-8420-26d6fca32a8a"
+            }
+        ],
+        "summary": "BS Legend of Zelda \"MottZilla Patch\" is a ROM hack/mod for BS Zelda no Densetsu Map 2. It makes the game able to be played on a real SNES, making it a single game with both BS Zelda games (Maps 1 and 2), with a time limit of 50 minutes per week (weeks on the Satellaview worked like time-limited episodes)."
+    },
+    {
+        "id": 45142,
+        "cover": {
+            "id": 279139,
+            "alpha_channel": true,
+            "animated": false,
+            "game": 45142,
+            "height": 800,
+            "image_id": "co5zdv",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5zdv.jpg",
+            "width": 600,
+            "checksum": "00305c5c-a4e8-5da5-5826-2912f1a987ef"
+        },
+        "first_release_date": 1014854400,
+        "genres": [
+            {
+                "id": 8,
+                "created_at": 1297555200,
+                "name": "Platform",
+                "slug": "platform",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/platform",
+                "checksum": "697fc5a4-b96f-a803-288a-498bd5dd1de1"
+            },
+            {
+                "id": 9,
+                "created_at": 1297555200,
+                "name": "Puzzle",
+                "slug": "puzzle",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/puzzle",
+                "checksum": "616de9c3-8a00-0232-9df9-00014cfac51b"
+            },
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda: Ocarina of Time - Master Quest",
+        "platforms": [
+            {
+                "id": 21,
+                "abbreviation": "NGC",
+                "alternative_name": "GCN",
+                "category": 1,
+                "created_at": 1298032543,
+                "generation": 6,
+                "name": "Nintendo GameCube",
+                "platform_logo": 262,
+                "platform_family": 5,
+                "slug": "ngc",
+                "updated_at": 1644575483,
+                "url": "https://www.igdb.com/platforms/ngc",
+                "versions": [
+                    54,
+                    121,
+                    125
+                ],
+                "websites": [
+                    292
+                ],
+                "checksum": "617b5b20-8ace-6046-14ed-7795ab4eb5f5"
+            },
+            {
+                "id": 416,
+                "alternative_name": "64DD",
+                "category": 1,
+                "created_at": 1660320790,
+                "generation": 5,
+                "name": "Nintendo 64DD",
+                "platform_family": 5,
+                "slug": "nintendo-64dd",
+                "updated_at": 1660320798,
+                "url": "https://www.igdb.com/platforms/nintendo-64dd",
+                "versions": [
+                    556
+                ],
+                "websites": [
+                    315
+                ],
+                "checksum": "a6dc277b-22ff-1ce7-cadf-0bf1501c45e6"
+            }
+        ],
+        "rating": 89.96846256413127,
+        "storyline": "A young boy named Link was raised in the village of the elf-like Kokiri people. One day a fairy named Navi introduces him to the village's guardian, the Great Deku Tree. It appears that a mysterious man has cursed the tree, and Link is sent to the Hyrule Castle to find out more. Princess Zelda tells Link that Ganondorf, the leader of the Gerudo tribe, seeks to obtain the Triforce, a holy relic that grants immense power to the one who possesses it. Link must do everything in his power to obtain the Triforce before Ganondorf does, and save Hyrule.",
+        "summary": "The Legend of Zelda: Ocarina of Time - Master Quest is a reworked version of the original Ocarina of Time for the Nintendo 64. Master Quest contains largely the same content as the original game but with more redesigned and difficult dungeons. Master Quest was available on a special bonus disc that also contained the original Ocarina of Time, it was given out in limited quantities with preorders of The Wind Waker. It was previously developed to be released as an expansion to the original game via the Nintendo 64DD, but that version was cancelled due to the lackluster sales of the hardware."
+    },
+    {
+        "id": 237895,
+        "cover": {
+            "id": 289882,
+            "alpha_channel": true,
+            "animated": false,
+            "game": 237895,
+            "height": 2000,
+            "image_id": "co67oa",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co67oa.jpg",
+            "width": 1500,
+            "checksum": "7be22c8e-0c9f-396c-50f5-c17459868040"
+        },
+        "first_release_date": 1512691200,
+        "genres": [
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda: Breath of the Wild and The Legend of Zelda: Breath of the Wild Expansion Pass Bundle",
+        "platforms": [
+            {
+                "id": 130,
+                "abbreviation": "Switch",
+                "alternative_name": "NX",
+                "category": 1,
+                "created_at": 1465948800,
+                "generation": 8,
+                "name": "Nintendo Switch",
+                "platform_logo": 534,
+                "platform_family": 5,
+                "slug": "switch",
+                "updated_at": 1550534400,
+                "url": "https://www.igdb.com/platforms/switch",
+                "versions": [
+                    173,
+                    282
+                ],
+                "websites": [
+                    16
+                ],
+                "checksum": "d28b6757-c24a-73c6-50e7-f8e6487c78af"
+            }
+        ],
+        "summary": "The Legend of Zelda: Breath of the Wild game packs countless hours of play into a vast world of discovery. That makes it an ideal foundation for more adventures! This special bundle comes with the full game for the Nintendo Switch system and the Expansion Pass, which grants access to three new treasure chests, The Master Trials DLC Pack 1, and The Champions Ballad DLC Pack 2."
+    },
+    {
+        "id": 38319,
+        "cover": {
+            "id": 133483,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 38319,
+            "height": 800,
+            "image_id": "co2uzv",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2uzv.jpg",
+            "width": 600,
+            "checksum": "67babc5b-92ac-65df-f80d-a1d5fb26d3ec"
+        },
+        "first_release_date": 807667200,
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "BS Zelda no Densetsu",
+        "platforms": [
+            {
+                "id": 306,
+                "category": 1,
+                "created_at": 1590781904,
+                "generation": 4,
+                "name": "Satellaview",
+                "platform_logo": 595,
+                "platform_family": 5,
+                "slug": "satellaview",
+                "updated_at": 1635130695,
+                "url": "https://www.igdb.com/platforms/satellaview",
+                "versions": [
+                    423
+                ],
+                "websites": [
+                    205,
+                    289
+                ],
+                "checksum": "d8e1d9a0-b32f-1b76-d970-4f0681997f8e"
+            }
+        ],
+        "storyline": "At the beginning of the game, the character automatically walks into a cave, where the Old Man gives him or her the Wooden Sword. The character must complete all eight dungeons and obtain the eight pieces of the Triforce. Two of the pieces are available in each week.",
+        "summary": "BS Zelda no Densetsu was a remake of The Legend of Zelda that was released for the Satellaview attachment of the Super Nintendo Entertainment System in Japan."
+    },
+    {
+        "id": 152362,
+        "cover": {
+            "id": 225082,
+            "alpha_channel": true,
+            "animated": false,
+            "game": 152362,
+            "height": 800,
+            "image_id": "co4toa",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4toa.jpg",
+            "width": 600,
+            "checksum": "8bcee678-acc0-5da0-9084-03f158a3c070"
+        },
+        "first_release_date": 620092800,
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "Zelda",
+        "platforms": [
+            {
+                "id": 307,
+                "alternative_name": "Tricotronic, GW, G&W",
+                "category": 5,
+                "created_at": 1590782312,
+                "generation": 2,
+                "name": "Game & Watch",
+                "platform_logo": 531,
+                "platform_family": 5,
+                "slug": "game-and-watch",
+                "updated_at": 1633117066,
+                "url": "https://www.igdb.com/platforms/game-and-watch",
+                "versions": [
+                    424
+                ],
+                "websites": [
+                    206
+                ],
+                "checksum": "dcc3b1ce-4462-1c60-a1c2-566a266b1b04"
+            }
+        ],
+        "storyline": "As the eight dragons cannot live in peace with humans, they decide to take over the world. Eventually, they kidnap Princess Zelda and lock her in a dungeon which can only be opened with the Triforce. Each of the dragons is located in their own labyrinth, and each guards a different fragment of the Triforce. Link sets out to destroy all eight dragons and reassemble the Triforce to free Zelda from the dragons' dungeon. Once Link defeats the last dragon, he reassembles the Triforce and frees Zelda from her prison.",
+        "summary": "Zelda is a multiscreen Game & Watch game that was only released in English as a stand-alone system pre-loaded with the single game. It has dual screens which fold in a clamshell design, similar to the Nintendo DS. It was re-released as part of the Nintendo Mini Classics line in 1998 and 2007. The complete game can also be unlocked in Game & Watch Gallery 4 for the Game Boy Advance and Wii U Virtual Console.\n\nIts core formula is based on that of the original The Legend of Zelda, where Link must fight through eight dungeons and obtain the eight shards of the Triforce of Wisdom. However, it bears more gameplay similarities to The Adventure of Link, since it is 2D and from a side-on perspective. The game features an original, though minimal storyline."
+    },
+    {
+        "id": 1029,
+        "cover": {
+            "id": 170637,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 1029,
+            "height": 2000,
+            "image_id": "co3nnx",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3nnx.jpg",
+            "width": 1500,
+            "checksum": "2113a1c3-97d7-3f55-33b0-683ec57fb1d4"
+        },
+        "first_release_date": 911606400,
+        "genres": [
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda: Ocarina of Time",
+        "platforms": [
+            {
+                "id": 4,
+                "abbreviation": "N64",
+                "alternative_name": "N64",
+                "category": 1,
+                "created_at": 1297555200,
+                "generation": 5,
+                "name": "Nintendo 64",
+                "platform_logo": 260,
+                "platform_family": 5,
+                "slug": "n64",
+                "updated_at": 1565136000,
+                "url": "https://www.igdb.com/platforms/n64",
+                "versions": [
+                    51,
+                    122
+                ],
+                "websites": [
+                    35
+                ],
+                "checksum": "647c6004-3c75-3b8d-8259-79bd3d5e5a28"
+            },
+            {
+                "id": 5,
+                "abbreviation": "Wii",
+                "alternative_name": "Revolution",
+                "category": 1,
+                "created_at": 1297639288,
+                "generation": 7,
+                "name": "Wii",
+                "platform_logo": 326,
+                "platform_family": 5,
+                "slug": "wii",
+                "updated_at": 1615884750,
+                "url": "https://www.igdb.com/platforms/wii",
+                "versions": [
+                    72,
+                    283
+                ],
+                "websites": [
+                    275
+                ],
+                "checksum": "d56c975f-909c-1af3-bdf6-e57c03e11bce"
+            },
+            {
+                "id": 41,
+                "abbreviation": "WiiU",
+                "category": 1,
+                "created_at": 1317686400,
+                "generation": 8,
+                "name": "Wii U",
+                "platform_logo": 239,
+                "platform_family": 5,
+                "slug": "wiiu",
+                "updated_at": 1489968000,
+                "url": "https://www.igdb.com/platforms/wiiu",
+                "versions": [
+                    73
+                ],
+                "websites": [
+                    10
+                ],
+                "checksum": "13712d1c-3c5d-44d8-2d54-b2adc47f5416"
+            }
+        ],
+        "rating": 92.08749040595885,
+        "storyline": "A young boy named Link was raised in the village of the elf-like Kokiri people. One day a fairy named Navi introduces him to the village's guardian, the Great Deku Tree. It appears that a mysterious man has cursed the tree, and Link is sent to the Hyrule Castle to find out more. Princess Zelda tells Link that Ganondorf, the leader of the Gerudo tribe, seeks to obtain the Triforce, a holy relic that grants immense power to the one who possesses it. Link must do everything in his power to obtain the Triforce before Ganondorf does, and save Hyrule.",
+        "summary": "The Legend of Zelda: Ocarina of Time is the fifth main installment of The Legend of Zelda series and the first to be released for the Nintendo 64. It was one of the most highly anticipated games of its age, and is listed among the greatest video games ever created by numerous websites and magazines. The gameplay of Ocarina of Time was revolutionary for its time, it has arguably made more of an impact on later games in the series than any of its predecessors even though they had the same cores of exploration, dungeons, puzzles and item usage. Among the gameplay mechanics, one of the most noteworthy is the time-traveling system. The game begins with the player controlling the child Link, but later on an adult Link becomes a playable character as well and each of them has certain unique abilities. Ocarina of Time also introduces the use of music to solve puzzles: as new songs are learned, they can be used to solve puzzles, gain access to new areas and warp to different locations. Dungeon exploration is somewhat more puzzle-oriented than in earlier games but they are not too complex."
+    },
+    {
+        "id": 1041,
+        "cover": {
+            "id": 132049,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 1041,
+            "height": 1134,
+            "image_id": "co2tw1",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2tw1.jpg",
+            "width": 850,
+            "checksum": "490da409-d765-b724-4971-6755924e3656"
+        },
+        "first_release_date": 983232000,
+        "genres": [
+            {
+                "id": 9,
+                "created_at": 1297555200,
+                "name": "Puzzle",
+                "slug": "puzzle",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/puzzle",
+                "checksum": "616de9c3-8a00-0232-9df9-00014cfac51b"
+            },
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda: Oracle of Ages",
+        "platforms": [
+            {
+                "id": 22,
+                "abbreviation": "GBC",
+                "alternative_name": "GBC",
+                "category": 5,
+                "created_at": 1300187960,
+                "generation": 5,
+                "name": "Game Boy Color",
+                "platform_logo": 273,
+                "platform_family": 5,
+                "slug": "gbc",
+                "updated_at": 1628498928,
+                "url": "https://www.igdb.com/platforms/gbc",
+                "versions": [
+                    41
+                ],
+                "checksum": "ecd1db6f-8e22-bba6-a2d4-6b33cb5c2682"
+            },
+            {
+                "id": 37,
+                "abbreviation": "3DS",
+                "alternative_name": "3DS",
+                "category": 5,
+                "created_at": 1317600000,
+                "generation": 8,
+                "name": "Nintendo 3DS",
+                "platform_logo": 240,
+                "platform_family": 5,
+                "slug": "3ds",
+                "updated_at": 1473984000,
+                "url": "https://www.igdb.com/platforms/3ds",
+                "versions": [
+                    50
+                ],
+                "websites": [
+                    9
+                ],
+                "checksum": "acee0d28-d3b8-b891-fc1c-768782c775a4"
+            }
+        ],
+        "rating": 84.46829395672052,
+        "storyline": "A pall of Darkness has fallen over the land of Labrynna. The Sorceress of Shadows has captured the Oracle of Ages and is using her power to do evil. Link has been summoned to help and must travel back and forth in time to stop the Sorceress of Shadows and return Labrynna to its former glory.",
+        "summary": "The Legend of Zelda: Oracle of Ages is one of two Zelda titles released for the Game Boy Color, the other being Oracle of Seasons. The game retain many gameplay elements from Link's Awakening such as the graphics, audio and top-view perspective. It also features eight dungeons and a large overworld to explore like in the previous games. Oracle of Ages is said to be more puzzle-oriented than its counterpart being more action-oriented. After completing one of the two games, both can be linked to form a single linear plot with an alternate ending. Oracle of Ages and Oracle of Seasons were often credited as being two of the top games for the Game Boy Color."
+    },
+    {
+        "id": 163216,
+        "cover": {
+            "id": 165201,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 163216,
+            "height": 352,
+            "image_id": "co3jgx",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3jgx.jpg",
+            "width": 264,
+            "checksum": "246c364d-cd47-b281-e32d-9e940351282d"
+        },
+        "first_release_date": 1104451200,
+        "genres": [
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda: Triforce of the Gods",
+        "platforms": [
+            {
+                "id": 18,
+                "abbreviation": "NES",
+                "alternative_name": "NES",
+                "category": 1,
+                "created_at": 1297941636,
+                "generation": 3,
+                "name": "Nintendo Entertainment System",
+                "platform_logo": 229,
+                "platform_family": 5,
+                "slug": "nes",
+                "updated_at": 1660212114,
+                "url": "https://www.igdb.com/platforms/nes",
+                "versions": [
+                    53,
+                    175
+                ],
+                "checksum": "e5286baa-27cd-f24d-bf1a-f37abb776219"
+            }
+        ],
+        "summary": "Zelda: Triforce of the Gods is a bootleg game developed by Mars Production and published by Waixing for the Famicom. It is a backport of The Legend of Zelda: A Link to the Past for the SNES."
+    },
+    {
+        "id": 1026,
+        "cover": {
+            "id": 181427,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 1026,
+            "height": 2000,
+            "image_id": "co3vzn",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3vzn.jpg",
+            "width": 1500,
+            "checksum": "81a104f6-ce7d-1ea4-94ea-a756f037728f"
+        },
+        "first_release_date": 690681600,
+        "genres": [
+            {
+                "id": 9,
+                "created_at": 1297555200,
+                "name": "Puzzle",
+                "slug": "puzzle",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/puzzle",
+                "checksum": "616de9c3-8a00-0232-9df9-00014cfac51b"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda: A Link to the Past",
+        "platforms": [
+            {
+                "id": 5,
+                "abbreviation": "Wii",
+                "alternative_name": "Revolution",
+                "category": 1,
+                "created_at": 1297639288,
+                "generation": 7,
+                "name": "Wii",
+                "platform_logo": 326,
+                "platform_family": 5,
+                "slug": "wii",
+                "updated_at": 1615884750,
+                "url": "https://www.igdb.com/platforms/wii",
+                "versions": [
+                    72,
+                    283
+                ],
+                "websites": [
+                    275
+                ],
+                "checksum": "d56c975f-909c-1af3-bdf6-e57c03e11bce"
+            },
+            {
+                "id": 19,
+                "abbreviation": "SNES",
+                "alternative_name": "SNES, Super Nintendo",
+                "category": 1,
+                "created_at": 1297941647,
+                "generation": 4,
+                "name": "Super Nintendo Entertainment System",
+                "platform_logo": 535,
+                "platform_family": 5,
+                "slug": "snes",
+                "updated_at": 1660212083,
+                "url": "https://www.igdb.com/platforms/snes",
+                "versions": [
+                    68,
+                    95,
+                    97,
+                    139,
+                    177,
+                    391
+                ],
+                "websites": [
+                    209
+                ],
+                "checksum": "8b2b4298-17ca-05a6-8420-26d6fca32a8a"
+            },
+            {
+                "id": 41,
+                "abbreviation": "WiiU",
+                "category": 1,
+                "created_at": 1317686400,
+                "generation": 8,
+                "name": "Wii U",
+                "platform_logo": 239,
+                "platform_family": 5,
+                "slug": "wiiu",
+                "updated_at": 1489968000,
+                "url": "https://www.igdb.com/platforms/wiiu",
+                "versions": [
+                    73
+                ],
+                "websites": [
+                    10
+                ],
+                "checksum": "13712d1c-3c5d-44d8-2d54-b2adc47f5416"
+            },
+            {
+                "id": 58,
+                "abbreviation": "SFAM",
+                "alternative_name": "SFC",
+                "category": 1,
+                "created_at": 1351209600,
+                "generation": 4,
+                "name": "Super Famicom",
+                "platform_logo": 271,
+                "platform_family": 5,
+                "slug": "sfam",
+                "updated_at": 1399766400,
+                "url": "https://www.igdb.com/platforms/sfam",
+                "versions": [
+                    67,
+                    98
+                ],
+                "checksum": "98c18388-67d3-e46a-77bc-49287d3da1e9"
+            },
+            {
+                "id": 137,
+                "alternative_name": "n3DS",
+                "category": 5,
+                "created_at": 1504569600,
+                "generation": 8,
+                "name": "New Nintendo 3DS",
+                "platform_logo": 235,
+                "platform_family": 5,
+                "slug": "new-nintendo-3ds",
+                "updated_at": 1591574400,
+                "url": "https://www.igdb.com/platforms/new-nintendo-3ds",
+                "versions": [
+                    195
+                ],
+                "websites": [
+                    17
+                ],
+                "checksum": "df7e06e4-3fce-4055-b28c-30703fba98bb"
+            },
+            {
+                "id": 306,
+                "category": 1,
+                "created_at": 1590781904,
+                "generation": 4,
+                "name": "Satellaview",
+                "platform_logo": 595,
+                "platform_family": 5,
+                "slug": "satellaview",
+                "updated_at": 1635130695,
+                "url": "https://www.igdb.com/platforms/satellaview",
+                "versions": [
+                    423
+                ],
+                "websites": [
+                    205,
+                    289
+                ],
+                "checksum": "d8e1d9a0-b32f-1b76-d970-4f0681997f8e"
+            }
+        ],
+        "rating": 92.85169414112056,
+        "storyline": "The wizard Agahnim has been abducting descendants of the seven sages, intent on using their power to obliterate the barrier leading to the Dark World. One of the descendants happens to be Princess Zelda, who informs Link of her plight. Armed with a trusty sword and shield, Link begins a journey that will take him through treacherous territory.",
+        "summary": "The Legend of Zelda: A Link to the Past is a top-down action game with puzzle-solving elements similar to the original The Legend of Zelda. After the side-scrolling and RPG-like gameplay of Zelda II: The Adventure of Link, the game is a return to the top-down view and gameplay style of the first installment. It introduces major new items to the series such as the Master Sword and the concept of two different worlds, which was revisited to some extent in Ocarina of Time with two distinct time periods rather than dark and light worlds."
+    },
+    {
+        "id": 1032,
+        "cover": {
+            "id": 132048,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 1032,
+            "height": 1134,
+            "image_id": "co2tw0",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2tw0.jpg",
+            "width": 850,
+            "checksum": "29f259c5-74e4-f519-badd-0b05efa9e782"
+        },
+        "first_release_date": 983232000,
+        "genres": [
+            {
+                "id": 9,
+                "created_at": 1297555200,
+                "name": "Puzzle",
+                "slug": "puzzle",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/puzzle",
+                "checksum": "616de9c3-8a00-0232-9df9-00014cfac51b"
+            },
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda: Oracle of Seasons",
+        "platforms": [
+            {
+                "id": 22,
+                "abbreviation": "GBC",
+                "alternative_name": "GBC",
+                "category": 5,
+                "created_at": 1300187960,
+                "generation": 5,
+                "name": "Game Boy Color",
+                "platform_logo": 273,
+                "platform_family": 5,
+                "slug": "gbc",
+                "updated_at": 1628498928,
+                "url": "https://www.igdb.com/platforms/gbc",
+                "versions": [
+                    41
+                ],
+                "checksum": "ecd1db6f-8e22-bba6-a2d4-6b33cb5c2682"
+            },
+            {
+                "id": 37,
+                "abbreviation": "3DS",
+                "alternative_name": "3DS",
+                "category": 5,
+                "created_at": 1317600000,
+                "generation": 8,
+                "name": "Nintendo 3DS",
+                "platform_logo": 240,
+                "platform_family": 5,
+                "slug": "3ds",
+                "updated_at": 1473984000,
+                "url": "https://www.igdb.com/platforms/3ds",
+                "versions": [
+                    50
+                ],
+                "websites": [
+                    9
+                ],
+                "checksum": "acee0d28-d3b8-b891-fc1c-768782c775a4"
+            }
+        ],
+        "rating": 82.60726216979542,
+        "storyline": "The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero... and finds Link. His quest won't be easy - he'll have to master the seasons themselves if he's to turn back the evil tide.",
+        "summary": "The Legend of Zelda: Oracle of Seasons is one of two Zelda titles released for the Game Boy Color, the other being Oracle of Ages. The game retain many gameplay elements from Link's Awakening such as the graphics, audio and top-view perspective. It also features eight dungeons and a large overworld to explore like in the previous games. Oracle of Seasons is said to be more action-oriented than its counterpart being more puzzle-oriented. After completing one of the two games, both can be linked to form a single linear plot with an alternate ending. Oracle of Seasons and Oracle of Ages were often credited as being two of the top games for the Game Boy Color."
+    },
+    {
+        "id": 18066,
+        "cover": {
+            "id": 275789,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 18066,
+            "height": 800,
+            "image_id": "co5wst",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5wst.jpg",
+            "width": 600,
+            "checksum": "c6412f05-1160-51b6-2afd-d62fdbac9ef3"
+        },
+        "first_release_date": 1076716800,
+        "genres": [
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "Classic NES Series: The Legend of Zelda",
+        "platforms": [
+            {
+                "id": 24,
+                "abbreviation": "GBA",
+                "alternative_name": "GBA",
+                "category": 5,
+                "created_at": 1300147200,
+                "generation": 6,
+                "name": "Game Boy Advance",
+                "platform_logo": 255,
+                "platform_family": 5,
+                "slug": "gba",
+                "updated_at": 1471478400,
+                "url": "https://www.igdb.com/platforms/gba",
+                "versions": [
+                    40,
+                    193,
+                    194
+                ],
+                "checksum": "2741e85f-e65d-4668-6cdb-36fca54e5dd4"
+            }
+        ],
+        "rating": 78.83840991223542,
+        "summary": "The Legend of Zelda invented a genre and captivated a gaming generation. Now you can play the timeless NES adventure on your Game Boy Advance! The evil warlock Ganon has imprisoned Princess Zelda and plunged the peaceful land of Hyrule into darkness and despair. Only a young boy named Link has the courage to answer the call for a hero. Will he find the lost Triforce fragments, slay Ganon, and save Princess Zelda? Only you can decide the fate of Hyrule!"
+    },
+    {
+        "id": 1034,
+        "cover": {
+            "id": 172535,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 1034,
+            "height": 2000,
+            "image_id": "co3p4n",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3p4n.jpg",
+            "width": 1500,
+            "checksum": "f699c47b-5060-72d2-0917-8a49ad99df8b"
+        },
+        "first_release_date": 1079568000,
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda: Four Swords Adventures",
+        "platforms": [
+            {
+                "id": 21,
+                "abbreviation": "NGC",
+                "alternative_name": "GCN",
+                "category": 1,
+                "created_at": 1298032543,
+                "generation": 6,
+                "name": "Nintendo GameCube",
+                "platform_logo": 262,
+                "platform_family": 5,
+                "slug": "ngc",
+                "updated_at": 1644575483,
+                "url": "https://www.igdb.com/platforms/ngc",
+                "versions": [
+                    54,
+                    121,
+                    125
+                ],
+                "websites": [
+                    292
+                ],
+                "checksum": "617b5b20-8ace-6046-14ed-7795ab4eb5f5"
+            }
+        ],
+        "rating": 66.38569411570022,
+        "storyline": "Long ago in the kingdom of Hyrule, an evil sorcerer began kidnapping young maidens. This sorcerer was known as Vaati, and it seemed that no one could stop him. Eventually an adventurer appeared who was able to defeat Vaati, this adventurer carried with him the four sword which caused him to be split into four beings, and by working together the four beings were able to seal Vaati deep within the earth. But now Vaati has escaped, and the task of defeating him again has fallen to Link!",
+        "summary": "The Legend of Zelda: Four Swords Adventures is the only console Zelda title to date to incorporate multiplayer elements into its main campaign. Because of its single-player elements, Four Swords Adventures is also the first game in the series to allow a single player to control more than one Link at once, and it utilizes various methods to allow the player to make use of the four Links, such as formations. Also it is the only title to break locations and temples up into succinct, separate stages and levels which can be replayed even after beating them once. The game itself, though an innovation in Zelda gameplay, is heavily inspired by the music, graphics, and locations of A Link to the Past."
+    },
+    {
+        "id": 199421,
+        "cover": {
+            "id": 300576,
+            "alpha_channel": true,
+            "animated": false,
+            "game": 199421,
+            "height": 1600,
+            "image_id": "co6fxc",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6fxc.jpg",
+            "width": 1200,
+            "checksum": "030e772f-53af-8cca-b715-357012e3629d"
+        },
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "Unreal Engine The Legend of Zelda: Ocarina of Time",
+        "platforms": [
+            {
+                "id": 6,
+                "abbreviation": "PC",
+                "alternative_name": "mswin",
+                "category": 4,
+                "created_at": 1297555200,
+                "name": "PC (Microsoft Windows)",
+                "platform_logo": 203,
+                "slug": "win",
+                "updated_at": 1470009600,
+                "url": "https://www.igdb.com/platforms/win",
+                "versions": [
+                    1,
+                    13,
+                    14,
+                    15,
+                    124
+                ],
+                "websites": [
+                    2
+                ],
+                "checksum": "5aae54d0-390e-a4ec-a9ee-4ad4cc346992"
+            }
+        ],
+        "summary": "A fan recreation of The Legend of Zelda: Ocarina of Time with updated graphics, made using the Unreal Engine."
+    },
+    {
+        "id": 77336,
+        "cover": {
+            "id": 170801,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 77336,
+            "height": 800,
+            "image_id": "co3nsh",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3nsh.jpg",
+            "width": 600,
+            "checksum": "552ede9a-ce76-10bd-5a7e-07e9291b5b4f"
+        },
+        "first_release_date": 1038787200,
+        "genres": [
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda: A Link to the Past & Four Swords",
+        "platforms": [
+            {
+                "id": 24,
+                "abbreviation": "GBA",
+                "alternative_name": "GBA",
+                "category": 5,
+                "created_at": 1300147200,
+                "generation": 6,
+                "name": "Game Boy Advance",
+                "platform_logo": 255,
+                "platform_family": 5,
+                "slug": "gba",
+                "updated_at": 1471478400,
+                "url": "https://www.igdb.com/platforms/gba",
+                "versions": [
+                    40,
+                    193,
+                    194
+                ],
+                "checksum": "2741e85f-e65d-4668-6cdb-36fca54e5dd4"
+            }
+        ],
+        "rating": 85.93641092503282,
+        "storyline": "A Link to the Past\nThe wizard Agahnim has been abducting descendants of the seven sages, intent on using their power to obliterate the barrier leading to the Dark World. One of the descendants happens to be Princess Zelda, who informs Link of her plight. Armed with a trusty sword and shield, Link begins a journey that will take him through treacherous territory.\n\nFour Swords\nA long time ago in Hyrule, there was a hero who used a legendary sword called the Four Sword to defeat the sorcerer Vaati and trapped him into the sword. After the battle, people built a shrine to protect it. Several years later, princess Zelda noticed that Vaati might have escaped from the blade of the Four Sword and asked Link to come to the Four Sword shrine to check with her. As soon as they came there, Vaati captured Zelda and carried her away. Some little fairies later told Link that princess Zelda was at Vaati's palace up on the sky. In an attempt to recuse Zelda, Link dragged the Four Sword and it created three more Links! The Links then began their adventure to save Zelda.",
+        "summary": "The Legend of Zelda: A Link to the Past & Four Swords features two games, a port of the SNES game The Legend of Zelda: A Link to the Past and a new multiplayer adventure called Four Swords."
+    },
+    {
+        "id": 116419,
+        "cover": {
+            "id": 80957,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 116419,
+            "height": 1600,
+            "image_id": "co1qgt",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1qgt.jpg",
+            "width": 1200,
+            "checksum": "d427aeb9-6aea-6990-2ab4-85de9a35bd9a"
+        },
+        "first_release_date": 1560384000,
+        "genres": [
+            {
+                "id": 7,
+                "created_at": 1297555200,
+                "name": "Music",
+                "slug": "music",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/music",
+                "checksum": "22d44a0d-89c7-580f-eef2-e06f178fdd47"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda",
+        "platforms": [
+            {
+                "id": 130,
+                "abbreviation": "Switch",
+                "alternative_name": "NX",
+                "category": 1,
+                "created_at": 1465948800,
+                "generation": 8,
+                "name": "Nintendo Switch",
+                "platform_logo": 534,
+                "platform_family": 5,
+                "slug": "switch",
+                "updated_at": 1550534400,
+                "url": "https://www.igdb.com/platforms/switch",
+                "versions": [
+                    173,
+                    282
+                ],
+                "websites": [
+                    16
+                ],
+                "checksum": "d28b6757-c24a-73c6-50e7-f8e6487c78af"
+            }
+        ],
+        "rating": 75.20209076631046,
+        "storyline": "In the Kingdom of Hyrule, a mysterious man named Octavo uses a magical Lute to put Hyrule's king, as well as Link and Zelda, to sleep, before using the Triforce of Power to turn his Lute into a Golden Lute. In this time of need, Cadence is mysteriously transported to Hyrule by the Triforce and manages to wake up Link and Zelda. While Cadence goes off to try to find a way home, Link and Zelda travel across Hyrule to find and defeat Octavo's four champions, who each possess enchanted instruments containing musical power. After Link and Zelda, soon rejoined by Cadence, obtain the instruments and enter Hyrule Castle, Octavo reveals that he and his champions were meant to be used to battle against Ganon, who will take over Hyrule in the future. Finding himself defeated, Octavo opens a portal into the future, where Link, Zelda, and Cadence confront Ganon and combine their forces to defeat him. With help from the Golden Lute, Link and Zelda use the power of the Triforce to try and send Cadence back to her own world.",
+        "summary": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda is a rhythmic action-adventure game where you can enjoy the gameplay of Crypt of the NecroDancer in the setting of The Legend of Zelda series. As Link - or even as Princess Zelda - you'll explore the randomly generated overworld and procedurally generated dungeons on a quest to save Hyrule. Every beat of each remixed Legend of Zelda tune is a chance to move, attack, defend, and more, so stay one step ahead of each enemy and boss… or face the music."
+    },
+    {
+        "id": 176087,
+        "cover": {
+            "id": 274585,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 176087,
+            "height": 800,
+            "image_id": "co5vvd",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vvd.jpg",
+            "width": 600,
+            "checksum": "7e8061d5-3c9f-22a5-c106-b33ff7939515"
+        },
+        "first_release_date": 1038441600,
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda: Ocarina of Time + The Legend of Zelda: Ocarina of Time - Master Quest: Two-game Bonus Disc!",
+        "platforms": [
+            {
+                "id": 21,
+                "abbreviation": "NGC",
+                "alternative_name": "GCN",
+                "category": 1,
+                "created_at": 1298032543,
+                "generation": 6,
+                "name": "Nintendo GameCube",
+                "platform_logo": 262,
+                "platform_family": 5,
+                "slug": "ngc",
+                "updated_at": 1644575483,
+                "url": "https://www.igdb.com/platforms/ngc",
+                "versions": [
+                    54,
+                    121,
+                    125
+                ],
+                "websites": [
+                    292
+                ],
+                "checksum": "617b5b20-8ace-6046-14ed-7795ab4eb5f5"
+            }
+        ],
+        "summary": "A special bonus disc that contained the both the original Ocarina of Time and the previously unreleased Master Quest. This disc was given out in limited quantities with preorders of The Wind Waker. Additionally, it was sold packaged with The Wind Waker in some regions."
+    },
+    {
+        "id": 8533,
+        "cover": {
+            "id": 281013,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 8533,
+            "height": 800,
+            "image_id": "co60tx",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co60tx.jpg",
+            "width": 600,
+            "checksum": "14ab1f78-b78b-8aa0-e7ca-df428f5e3934"
+        },
+        "first_release_date": 750211200,
+        "genres": [
+            {
+                "id": 9,
+                "created_at": 1297555200,
+                "name": "Puzzle",
+                "slug": "puzzle",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/puzzle",
+                "checksum": "616de9c3-8a00-0232-9df9-00014cfac51b"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "Zelda: The Wand of Gamelon",
+        "platforms": [
+            {
+                "id": 117,
+                "category": 1,
+                "created_at": 1441238400,
+                "name": "Philips CD-i",
+                "platform_logo": 288,
+                "slug": "philips-cd-i",
+                "updated_at": 1441238400,
+                "url": "https://www.igdb.com/platforms/philips-cd-i",
+                "versions": [
+                    155
+                ],
+                "checksum": "bca1c0c7-303a-5342-2e3c-2c121b40b24a"
+            }
+        ],
+        "rating": 39.96142459109652,
+        "storyline": "King Harkinian announces his plan to aid Duke Onkled of Gamelon who is under attack by Ganon and orders Zelda to send Link for backup if she does not hear from him within a month. A month passes without word from the King, so Zelda sends Link to find him but he too goes missing. Zelda ventures off to Gamelon to find both Link and the King, accompanied by her elderly nursemaid Impa.",
+        "summary": "Zelda: The Wand of Gamelon was the product of a compromise between Nintendo and Philips following their failure to release a CD-ROM based add-on to the Super Nintendo Entertainment System. It was developed in tandem with Link: The Faces of Evil and marks the first game where the eponymous princess Zelda is playable. The Wand of Gamelon differ from most conventional Zelda games as it is a platformer with a side-scrolling view, similar to The Adventure of Link. Stages are accessed from a world map, with more becoming available as Zelda clears an area or defeats a boss. The game have been subject to much criticism and Nintendo does not recognize it as part of the series."
+    },
+    {
+        "id": 134500,
+        "cover": {
+            "id": 133484,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 134500,
+            "height": 800,
+            "image_id": "co2uzw",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2uzw.jpg",
+            "width": 600,
+            "checksum": "57576cd3-54b5-6f24-c6c3-de86df542dd6"
+        },
+        "first_release_date": 820281600,
+        "genres": [
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "BS Zelda no Densetsu Map 2",
+        "platforms": [
+            {
+                "id": 306,
+                "category": 1,
+                "created_at": 1590781904,
+                "generation": 4,
+                "name": "Satellaview",
+                "platform_logo": 595,
+                "platform_family": 5,
+                "slug": "satellaview",
+                "updated_at": 1635130695,
+                "url": "https://www.igdb.com/platforms/satellaview",
+                "versions": [
+                    423
+                ],
+                "websites": [
+                    205,
+                    289
+                ],
+                "checksum": "d8e1d9a0-b32f-1b76-d970-4f0681997f8e"
+            }
+        ],
+        "storyline": "At the beginning of the game, the character automatically walks into a cave, where the Old Man gives him or her the Wooden Sword. The character must complete all eight dungeons and obtain the eight pieces of the Triforce. Two of the pieces are available in each week.",
+        "summary": "BS Zelda no Densetsu Map 2 is a sequel to BS Zelda no Densetsu, released for the Super Famicom add-on Satellaview.\nIt is a reimagining of the original The Legend of Zelda for the NES. The player's avatar is the BS-X avatar, not Link.\nThe game was broadcast through the Satellaview service as was Soundlink compatible, meaning it had orchestral music, narration and specific timed events."
+    },
+    {
+        "id": 178050,
+        "cover": {
+            "id": 187588,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 178050,
+            "height": 800,
+            "image_id": "co40qs",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co40qs.jpg",
+            "width": 600,
+            "checksum": "89697fd6-522c-5cdc-7b69-4635c3167947"
+        },
+        "first_release_date": 808272000,
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "BS Zelda no Densetsu: Dai-2-wa",
+        "platforms": [
+            {
+                "id": 306,
+                "category": 1,
+                "created_at": 1590781904,
+                "generation": 4,
+                "name": "Satellaview",
+                "platform_logo": 595,
+                "platform_family": 5,
+                "slug": "satellaview",
+                "updated_at": 1635130695,
+                "url": "https://www.igdb.com/platforms/satellaview",
+                "versions": [
+                    423
+                ],
+                "websites": [
+                    205,
+                    289
+                ],
+                "checksum": "d8e1d9a0-b32f-1b76-d970-4f0681997f8e"
+            }
+        ],
+        "storyline": "At the beginning of the game, the character automatically walks into a cave, where the Old Man gives him or her the Wooden Sword. The character must complete all eight dungeons and obtain the eight pieces of the Triforce.",
+        "summary": "The second part (week) of BS Zelda no Densetsu.\n\nBS Zelda no Densetsu was a remake of The Legend of Zelda that was released for the Satellaview attachment of the Super Nintendo Entertainment System in Japan."
+    },
+    {
+        "id": 178049,
+        "cover": {
+            "id": 187587,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 178049,
+            "height": 800,
+            "image_id": "co40qr",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co40qr.jpg",
+            "width": 600,
+            "checksum": "da46e62b-f77a-2b7a-2a08-9c6013d9e549"
+        },
+        "first_release_date": 807667200,
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "BS Zelda no Densetsu: Dai-1-wa",
+        "platforms": [
+            {
+                "id": 306,
+                "category": 1,
+                "created_at": 1590781904,
+                "generation": 4,
+                "name": "Satellaview",
+                "platform_logo": 595,
+                "platform_family": 5,
+                "slug": "satellaview",
+                "updated_at": 1635130695,
+                "url": "https://www.igdb.com/platforms/satellaview",
+                "versions": [
+                    423
+                ],
+                "websites": [
+                    205,
+                    289
+                ],
+                "checksum": "d8e1d9a0-b32f-1b76-d970-4f0681997f8e"
+            }
+        ],
+        "storyline": "At the beginning of the game, the character automatically walks into a cave, where the Old Man gives him or her the Wooden Sword. The character must complete all eight dungeons and obtain the eight pieces of the Triforce.",
+        "summary": "The first part (week) of BS Zelda no Densetsu.\n\nBS Zelda no Densetsu was a remake of The Legend of Zelda that was released for the Satellaview attachment of the Super Nintendo Entertainment System in Japan."
+    },
+    {
+        "id": 178053,
+        "cover": {
+            "id": 187593,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 178053,
+            "height": 800,
+            "image_id": "co40qx",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co40qx.jpg",
+            "width": 600,
+            "checksum": "9b9f4844-0ed4-f1bc-a599-f04af746f95f"
+        },
+        "first_release_date": 809481600,
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "BS Zelda no Densetsu: Dai-4-wa",
+        "platforms": [
+            {
+                "id": 306,
+                "category": 1,
+                "created_at": 1590781904,
+                "generation": 4,
+                "name": "Satellaview",
+                "platform_logo": 595,
+                "platform_family": 5,
+                "slug": "satellaview",
+                "updated_at": 1635130695,
+                "url": "https://www.igdb.com/platforms/satellaview",
+                "versions": [
+                    423
+                ],
+                "websites": [
+                    205,
+                    289
+                ],
+                "checksum": "d8e1d9a0-b32f-1b76-d970-4f0681997f8e"
+            }
+        ],
+        "storyline": "At the beginning of the game, the character automatically walks into a cave, where the Old Man gives him or her the Wooden Sword. The character must complete all eight dungeons and obtain the eight pieces of the Triforce.",
+        "summary": "The fourth and last part (week) of the first map of BS Zelda no Densetsu.\n\nBS Zelda no Densetsu was a remake of The Legend of Zelda that was released for the Satellaview attachment of the Super Nintendo Entertainment System in Japan."
+    },
+    {
+        "id": 178051,
+        "cover": {
+            "id": 188079,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 178051,
+            "height": 800,
+            "image_id": "co414f",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co414f.jpg",
+            "width": 600,
+            "checksum": "0f5dd13d-0e1e-a307-2b2d-4186ecf9a210"
+        },
+        "first_release_date": 808876800,
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "BS Zelda no Densetsu: Dai-3-wa",
+        "platforms": [
+            {
+                "id": 306,
+                "category": 1,
+                "created_at": 1590781904,
+                "generation": 4,
+                "name": "Satellaview",
+                "platform_logo": 595,
+                "platform_family": 5,
+                "slug": "satellaview",
+                "updated_at": 1635130695,
+                "url": "https://www.igdb.com/platforms/satellaview",
+                "versions": [
+                    423
+                ],
+                "websites": [
+                    205,
+                    289
+                ],
+                "checksum": "d8e1d9a0-b32f-1b76-d970-4f0681997f8e"
+            }
+        ],
+        "storyline": "At the beginning of the game, the character automatically walks into a cave, where the Old Man gives him or her the Wooden Sword. The character must complete all eight dungeons and obtain the eight pieces of the Triforce.",
+        "summary": "The third part (week) of BS Zelda no Densetsu.\n\nBS Zelda no Densetsu was a remake of The Legend of Zelda that was released for the Satellaview attachment of the Super Nintendo Entertainment System in Japan."
+    },
+    {
+        "id": 149979,
+        "cover": {
+            "id": 141750,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 149979,
+            "height": 900,
+            "image_id": "co31di",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co31di.jpg",
+            "width": 675,
+            "checksum": "1eb8c8f9-38fd-b1bd-caac-8fedf03fa749"
+        },
+        "first_release_date": 1587600000,
+        "genres": [
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            }
+        ],
+        "name": "The Legend of Zelda: Second Wind",
+        "platforms": [
+            {
+                "id": 41,
+                "abbreviation": "WiiU",
+                "category": 1,
+                "created_at": 1317686400,
+                "generation": 8,
+                "name": "Wii U",
+                "platform_logo": 239,
+                "platform_family": 5,
+                "slug": "wiiu",
+                "updated_at": 1489968000,
+                "url": "https://www.igdb.com/platforms/wiiu",
+                "versions": [
+                    73
+                ],
+                "websites": [
+                    10
+                ],
+                "checksum": "13712d1c-3c5d-44d8-2d54-b2adc47f5416"
+            },
+            {
+                "id": 130,
+                "abbreviation": "Switch",
+                "alternative_name": "NX",
+                "category": 1,
+                "created_at": 1465948800,
+                "generation": 8,
+                "name": "Nintendo Switch",
+                "platform_logo": 534,
+                "platform_family": 5,
+                "slug": "switch",
+                "updated_at": 1550534400,
+                "url": "https://www.igdb.com/platforms/switch",
+                "versions": [
+                    173,
+                    282
+                ],
+                "websites": [
+                    16
+                ],
+                "checksum": "d28b6757-c24a-73c6-50e7-f8e6487c78af"
+            }
+        ],
+        "rating": 85.27061419351917,
+        "summary": "The Legend of Zelda: Second Wind is a fan expansion/mod of The Legend of Zelda: Breath of the Wild. This expansion adds new maps, new enemies, armor, weapons and game mechanics to the original game."
+    },
+    {
+        "id": 172501,
+        "cover": {
+            "id": 200349,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 172501,
+            "height": 1094,
+            "image_id": "co4al9",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4al9.jpg",
+            "width": 820,
+            "checksum": "840cca0e-9d2c-1533-06b8-b7b4916e8065"
+        },
+        "first_release_date": 623548800,
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            },
+            {
+                "id": 33,
+                "created_at": 1380931200,
+                "name": "Arcade",
+                "slug": "arcade",
+                "updated_at": 1380931200,
+                "url": "https://www.igdb.com/genres/arcade",
+                "checksum": "388cec36-d099-f4a1-31c3-f938fae9067b"
+            }
+        ],
+        "name": "The Legend of Zelda Game Watch",
+        "platforms": [
+            {
+                "id": 411,
+                "alternative_name": "Handheld LCD Game",
+                "category": 5,
+                "created_at": 1660246143,
+                "name": "Handheld Electronic LCD",
+                "slug": "handheld-electronic-lcd",
+                "updated_at": 1660246151,
+                "url": "https://www.igdb.com/platforms/handheld-electronic-lcd",
+                "versions": [
+                    551
+                ],
+                "checksum": "7e964db9-bcbe-fb18-30dd-f8f3ac732f33"
+            }
+        ],
+        "summary": "The Legend of Zelda Game Watch, referred to as The Legend of Zelda 8321 in the instruction manual, is a combined game and wristwatch released by Nelsonic Industries."
+    },
+    {
+        "id": 163572,
+        "cover": {
+            "id": 275108,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 163572,
+            "height": 2000,
+            "image_id": "co5w9w",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5w9w.jpg",
+            "width": 1500,
+            "checksum": "45d41b85-4e31-f03b-bcb4-f76602480c3b"
+        },
+        "first_release_date": 1038787200,
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda: Four Swords",
+        "platforms": [
+            {
+                "id": 24,
+                "abbreviation": "GBA",
+                "alternative_name": "GBA",
+                "category": 5,
+                "created_at": 1300147200,
+                "generation": 6,
+                "name": "Game Boy Advance",
+                "platform_logo": 255,
+                "platform_family": 5,
+                "slug": "gba",
+                "updated_at": 1471478400,
+                "url": "https://www.igdb.com/platforms/gba",
+                "versions": [
+                    40,
+                    193,
+                    194
+                ],
+                "checksum": "2741e85f-e65d-4668-6cdb-36fca54e5dd4"
+            }
+        ],
+        "rating": 70.1909483064304,
+        "storyline": "A long time ago in Hyrule, there was a hero who used a legendary sword called the Four Sword to defeat the sorcerer Vaati and trapped him into the sword. After the battle, people built a shrine to protect it. Several years later, princess Zelda noticed that Vaati might have escaped from the blade of the Four Sword and asked Link to come to the Four Sword shrine to check with her. As soon as they came there, Vaati captured Zelda and carried her away. Some little fairies later told Link that princess Zelda was at Vaati's palace up on the sky. In an attempt to recuse Zelda, Link dragged the Four Sword and it created three more Links! The Links then began their adventure to save Zelda.",
+        "summary": "The Legend of Zelda: Four Swords is a multiplayer game in the Zelda series originally released together with The Legend of Zelda: A Link to the Past for the Game Boy Advance. The game has many features not seen in the series and it requires at least two people to play and uses randomly generated dungeons. During the game, players must collect as many Ruppees as possible while solving puzzles and defeating enemies. When enough Ruppees are collected, the Great Fairy will give the players a key to open the unlockable level. At the end of each level, the one who collects the most Ruppees will be the winner."
+    },
+    {
+        "id": 1030,
+        "cover": {
+            "id": 172745,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 1030,
+            "height": 1533,
+            "image_id": "co3pah",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3pah.jpg",
+            "width": 1150,
+            "checksum": "540b083d-c36c-ee4d-5aa7-ef546d876b59"
+        },
+        "first_release_date": 956793600,
+        "genres": [
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "The Legend of Zelda: Majora's Mask",
+        "platforms": [
+            {
+                "id": 4,
+                "abbreviation": "N64",
+                "alternative_name": "N64",
+                "category": 1,
+                "created_at": 1297555200,
+                "generation": 5,
+                "name": "Nintendo 64",
+                "platform_logo": 260,
+                "platform_family": 5,
+                "slug": "n64",
+                "updated_at": 1565136000,
+                "url": "https://www.igdb.com/platforms/n64",
+                "versions": [
+                    51,
+                    122
+                ],
+                "websites": [
+                    35
+                ],
+                "checksum": "647c6004-3c75-3b8d-8259-79bd3d5e5a28"
+            },
+            {
+                "id": 5,
+                "abbreviation": "Wii",
+                "alternative_name": "Revolution",
+                "category": 1,
+                "created_at": 1297639288,
+                "generation": 7,
+                "name": "Wii",
+                "platform_logo": 326,
+                "platform_family": 5,
+                "slug": "wii",
+                "updated_at": 1615884750,
+                "url": "https://www.igdb.com/platforms/wii",
+                "versions": [
+                    72,
+                    283
+                ],
+                "websites": [
+                    275
+                ],
+                "checksum": "d56c975f-909c-1af3-bdf6-e57c03e11bce"
+            },
+            {
+                "id": 41,
+                "abbreviation": "WiiU",
+                "category": 1,
+                "created_at": 1317686400,
+                "generation": 8,
+                "name": "Wii U",
+                "platform_logo": 239,
+                "platform_family": 5,
+                "slug": "wiiu",
+                "updated_at": 1489968000,
+                "url": "https://www.igdb.com/platforms/wiiu",
+                "versions": [
+                    73
+                ],
+                "websites": [
+                    10
+                ],
+                "checksum": "13712d1c-3c5d-44d8-2d54-b2adc47f5416"
+            }
+        ],
+        "rating": 87.39118170372856,
+        "storyline": "After the events of The Legend of Zelda: Ocarina of Time, Link departs on his horse Epona in the Lost Woods and is assaulted by an imp named Skull Kid who dons a mysterious mask, accompanied by the fairies Tael and Tatl. Skull Kid turns Link into a small plant-like creature known as Deku Scrub and takes away his horse and his magical ocarina. Shortly afterward, Tatl joins Link and agrees to help him revert to his native form. A meeting with a wandering mask salesman reveals that the Skull Kid is wearing Majora's Mask, an ancient item used in hexing rituals, which calls forth a menacing moon hovering over the land of Termina. Link has exactly three days to find a way to prevent this from happening.",
+        "summary": "The Legend of Zelda: Majora's Mask is a direct sequel to Ocarina of Time, it utilizes the same engine and visual style as its predecessor. The game retains the traditional elements of Zelda games as well as those introduced in Ocarina of Time, such as active blocking with a shield, various throwing items, and the usage of melodies played on the ocarina to solve puzzles. Compared to the previous Zelda games, this installment is more oriented towards interaction with NPCs and has a larger variety of items, optional quests, and mini-games. It also includes a time system that spans three days, and this cycle must be reset periodically to progress through the game."
+    },
+    {
+        "id": 178056,
+        "cover": {
+            "id": 187596,
+            "alpha_channel": false,
+            "animated": false,
+            "game": 178056,
+            "height": 800,
+            "image_id": "co40r0",
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/co40r0.jpg",
+            "width": 600,
+            "checksum": "32edd2df-8b4e-69db-a464-cfbe39229af1"
+        },
+        "first_release_date": 820454400,
+        "genres": [
+            {
+                "id": 12,
+                "created_at": 1297555200,
+                "name": "Role-playing (RPG)",
+                "slug": "role-playing-rpg",
+                "updated_at": 1323216000,
+                "url": "https://www.igdb.com/genres/role-playing-rpg",
+                "checksum": "42dea3b2-7fe2-e734-91cd-f80ce62a14c3"
+            },
+            {
+                "id": 31,
+                "created_at": 1323561600,
+                "name": "Adventure",
+                "slug": "adventure",
+                "updated_at": 1323561600,
+                "url": "https://www.igdb.com/genres/adventure",
+                "checksum": "a6d85192-8d11-bad3-cc5c-dd89e2f94a47"
+            }
+        ],
+        "name": "BS Zelda no Densetsu Map 2: Dai-2-wa",
+        "platforms": [
+            {
+                "id": 306,
+                "category": 1,
+                "created_at": 1590781904,
+                "generation": 4,
+                "name": "Satellaview",
+                "platform_logo": 595,
+                "platform_family": 5,
+                "slug": "satellaview",
+                "updated_at": 1635130695,
+                "url": "https://www.igdb.com/platforms/satellaview",
+                "versions": [
+                    423
+                ],
+                "websites": [
+                    205,
+                    289
+                ],
+                "checksum": "d8e1d9a0-b32f-1b76-d970-4f0681997f8e"
+            }
+        ],
+        "storyline": "At the beginning of the game, the character automatically walks into a cave, where the Old Man gives him or her the Wooden Sword. The character must complete all eight dungeons and obtain the eight pieces of the Triforce.",
+        "summary": "The second part (week) of BS Zelda no Densetsu Map 2.\n\nBS Zelda no Densetsu was a remake of The Legend of Zelda that was released for the Satellaview attachment of the Super Nintendo Entertainment System in Japan."
+    }
+]

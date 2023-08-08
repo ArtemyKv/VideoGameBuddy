@@ -8,6 +8,12 @@
 import Foundation
 import Combine
 
+protocol SearchViewModelProtocol {
+    var rowViewModels: [RowViewModel] { get }
+    
+    func makeSearch(with searchText: String)
+}
+
 final class SearchViewModel: ObservableObject {
     let networkService: APIService
     let builder: MainBuilder
@@ -32,7 +38,7 @@ final class SearchViewModel: ObservableObject {
         $searchResults
             .receive(on: DispatchQueue.main)
             .sink { results in
-                self.rowViewModels = results.map { RowViewModel(game: $0) }
+                self.rowViewModels = results.map { self.builder.rowViewModel(game: $0) }
             }
             .store(in: &subscriptions)
     }

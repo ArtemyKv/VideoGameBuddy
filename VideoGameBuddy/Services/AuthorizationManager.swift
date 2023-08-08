@@ -11,6 +11,7 @@ enum APIRequestError: Error {
     case notAuthorized
     case wrongResponseType
     case requestFailed(statusCode: Int)
+    case noImageFound
 }
 
 protocol Authorization {

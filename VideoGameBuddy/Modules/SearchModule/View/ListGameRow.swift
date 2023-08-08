@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ListGameRow: View {
-    let rowViewModel: RowViewModel
+    @ObservedObject var rowViewModel: RowViewModel
     
     init(rowViewModel: RowViewModel) {
         self.rowViewModel = rowViewModel
@@ -17,9 +17,7 @@ struct ListGameRow: View {
     var body: some View {
         GeometryReader { geometry in
             HStack(alignment: .top) {
-                //            rowViewModel.image
-                Image("testImage")
-                //                Image(systemName: "photo")
+                Image(uiImage: rowViewModel.image)
                     .resizable()
                     .aspectRatio(contentMode: .fit)
                     .frame(width: geometry.size.width * 0.33)
@@ -32,16 +30,18 @@ struct ListGameRow: View {
                 }
             }
         }
-        
+//        .onAppear {
+//            rowViewModel.getImage()
+//        }
     }
 }
 
 struct GameRow_Previews: PreviewProvider {
     static let game = Game.preview
-    static let rowViewModel = RowViewModel(game: game)
+    static let builder = MainBuilder()
     
     static var previews: some View {
-        ListGameRow(rowViewModel: rowViewModel)
+        ListGameRow(rowViewModel: builder.rowViewModel(game: game))
             .previewLayout(.fixed(width: 400, height: 150))
     }
 }

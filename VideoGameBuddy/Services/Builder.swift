@@ -9,6 +9,7 @@ import Foundation
 
 protocol Builder: ObservableObject {
     func searchViewModel() -> SearchViewModel
+    func rowViewModel(game: Game) -> RowViewModel
 }
 
 class MainBuilder: Builder {
@@ -19,5 +20,11 @@ class MainBuilder: Builder {
     func searchViewModel() -> SearchViewModel {
         let searchViewModel = SearchViewModel(networkService: networkService, builder: self)
         return searchViewModel
+    }
+    
+    func rowViewModel(game: Game) -> RowViewModel {
+        let rowViewModel = RowViewModel(game: game)
+        rowViewModel.networkService = networkService
+        return rowViewModel
     }
 }
