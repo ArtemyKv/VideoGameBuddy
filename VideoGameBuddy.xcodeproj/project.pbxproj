@@ -30,7 +30,6 @@
 		B636D0742A7CA01300AC0FF2 /* gameExample.json in Resources */ = {isa = PBXBuildFile; fileRef = B636D0732A7CA01300AC0FF2 /* gameExample.json */; };
 		B636D0762A7F3C3900AC0FF2 /* Builder.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D0752A7F3C3900AC0FF2 /* Builder.swift */; };
 		B636D0782A807F9A00AC0FF2 /* gamesListPreview.json in Resources */ = {isa = PBXBuildFile; fileRef = B636D0772A807F9A00AC0FF2 /* gamesListPreview.json */; };
-		B636D07A2A82040400AC0FF2 /* ImageDownloadingService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D0792A82040400AC0FF2 /* ImageDownloadingService.swift */; };
 		B636D07C2A83299D00AC0FF2 /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = B636D07B2A83299D00AC0FF2 /* ImageLoader.swift */; };
 /* End PBXBuildFile section */
 
@@ -59,7 +58,6 @@
 		B636D0732A7CA01300AC0FF2 /* gameExample.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = gameExample.json; sourceTree = "<group>"; };
 		B636D0752A7F3C3900AC0FF2 /* Builder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Builder.swift; sourceTree = "<group>"; };
 		B636D0772A807F9A00AC0FF2 /* gamesListPreview.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = gamesListPreview.json; sourceTree = "<group>"; };
-		B636D0792A82040400AC0FF2 /* ImageDownloadingService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDownloadingService.swift; sourceTree = "<group>"; };
 		B636D07B2A83299D00AC0FF2 /* ImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -208,7 +206,6 @@
 				B636D06F2A7B944500AC0FF2 /* AccessToken.swift */,
 				B636D06B2A7B8E2400AC0FF2 /* AuthorizationManager.swift */,
 				B636D0622A7B772500AC0FF2 /* NetworkService.swift */,
-				B636D0792A82040400AC0FF2 /* ImageDownloadingService.swift */,
 				B636D06D2A7B8FF900AC0FF2 /* Constants.swift */,
 				B636D0752A7F3C3900AC0FF2 /* Builder.swift */,
 				B636D07B2A83299D00AC0FF2 /* ImageLoader.swift */,
@@ -313,7 +310,6 @@
 				B636D0722A7C9DC100AC0FF2 /* RowViewModel.swift in Sources */,
 				B636D0652A7B813800AC0FF2 /* Game.swift in Sources */,
 				B636D07C2A83299D00AC0FF2 /* ImageLoader.swift in Sources */,
-				B636D07A2A82040400AC0FF2 /* ImageDownloadingService.swift in Sources */,
 				B636D0602A7B701100AC0FF2 /* GridGameRow.swift in Sources */,
 				B636D0682A7B814E00AC0FF2 /* Genre.swift in Sources */,
 				B636D04D2A7AAD8000AC0FF2 /* SearchViewModel.swift in Sources */,
