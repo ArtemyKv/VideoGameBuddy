@@ -13,7 +13,7 @@ struct Game: Codable, Hashable {
     var name: String
     var genres: [Genre]
     var platforms: [Platform]
-    var releaseDate: Int?
+    var releaseDate: Double?
     var coverID: String?
     var summary: String
     var storyline: String
@@ -41,7 +41,7 @@ struct Game: Codable, Hashable {
         self.name = try mainContainer.decode(String.self, forKey: .name)
         self.genres = (try? mainContainer.decode([Genre].self, forKey: .genres)) ?? []
         self.platforms = (try? mainContainer.decode([Platform].self, forKey: .platforms)) ?? []
-        self.releaseDate = try? mainContainer.decode(Int.self, forKey: .releaseDate)
+        self.releaseDate = try? mainContainer.decode(Double.self, forKey: .releaseDate)
         self.summary = (try? mainContainer.decode(String.self, forKey: .summary)) ?? ""
         self.storyline = (try? mainContainer.decode(String.self, forKey: .storyline)) ?? ""
         self.rating = try? mainContainer.decode(Double.self, forKey: .rating)

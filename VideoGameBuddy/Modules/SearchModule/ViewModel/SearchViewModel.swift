@@ -16,6 +16,7 @@ protocol SearchViewModelProtocol {
 
 final class SearchViewModel: ObservableObject {
     let networkService: APIService
+    let imageLoader: ImageLoadable
     let builder: MainBuilder
     
     var searchTask: Task<Void, Never>? = nil
@@ -28,8 +29,9 @@ final class SearchViewModel: ObservableObject {
     private var subscriptions = Set<AnyCancellable>()
     
     
-    init(networkService: APIService, builder: MainBuilder) {
+    init(networkService: APIService, imageLoader: ImageLoadable, builder: MainBuilder) {
         self.networkService = networkService
+        self.imageLoader = imageLoader
         self.builder = builder
         setBindings()
     }
@@ -48,6 +50,7 @@ final class SearchViewModel: ObservableObject {
         searchTask?.cancel()
         searchTask = Task(operation: {
             do {
+                await imageLoader.clearImagesStorage()
                 let searchResults = try await networkService.searchGames(searchText: searchText)
                 self.searchResults = searchResults
             } catch let error {
@@ -57,5 +60,10 @@ final class SearchViewModel: ObservableObject {
             }
             
         })
+    }
+    
+    func detailViewModel(forRowViewModel rowViewModel: RowViewModel) -> DetailsViewModel {
+        let game = rowViewModel.game
+        return builder.detailsViewModel(game: game)
     }
 }

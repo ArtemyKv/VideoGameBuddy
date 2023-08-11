@@ -28,11 +28,10 @@ struct ListGameRow: View {
                     Text(rowViewModel.releaseDate)
                     Text(rowViewModel.platform)
                 }
+                .multilineTextAlignment(.leading)
+                .foregroundColor(.primary)
             }
         }
-//        .onAppear {
-//            rowViewModel.getImage()
-//        }
     }
 }
 

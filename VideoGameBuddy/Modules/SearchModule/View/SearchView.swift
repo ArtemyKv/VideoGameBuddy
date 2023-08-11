@@ -27,14 +27,22 @@ struct SearchView: View {
             if layoutStyle == .list {
                 LazyVStack {
                     ForEach(viewModel.rowViewModels, id: \.game) { rowViewModel in
-                        ListGameRow(rowViewModel: rowViewModel)
-                            .frame(height: 150)
+                        NavigationLink(destination: {
+                            DetailsView(viewModel: viewModel.detailViewModel(forRowViewModel: rowViewModel))
+                        }, label: {
+                            ListGameRow(rowViewModel: rowViewModel)
+                                .frame(height: 150)
+                        })
                     }
                 }
             } else {
                 LazyVGrid(columns: gridColumns) {
                     ForEach(viewModel.rowViewModels, id:\.game) { rowViewModel in
-                        GridGameRow(rowViewModel: rowViewModel)
+                        NavigationLink(destination: {
+                            DetailsView(viewModel: viewModel.detailViewModel(forRowViewModel: rowViewModel))
+                        }, label: {
+                            GridGameRow(rowViewModel: rowViewModel)
+                        })
                     }
                 }
                 .padding(.horizontal, 8)
@@ -48,7 +56,7 @@ struct SearchView: View {
         }
         .toolbar {
             ToolbarItem(placement: .navigationBarTrailing) {
-                Picker("LayoutStyle", selection: $layoutStyle) {
+                Picker("LayoutStyle", selection: $layoutStyle.animation()) {
                     ForEach(LayoutStyle.allCases) { style in
                         Image(systemName: style.rawValue).tag(style)
                     }
@@ -63,8 +71,9 @@ struct SearchView: View {
 struct SearchView_Perviews: PreviewProvider {
     static let authManager = AuthorizationManager()
     static let previewNetworkService = PreviewNetworkService(authManager: authManager)
+    static let previewImageLoader = PreviewImageLoader()
     static let builder = MainBuilder()
-    static let searchViewModel = SearchViewModel(networkService: previewNetworkService, builder: builder)
+    static let searchViewModel = SearchViewModel(networkService: previewNetworkService, imageLoader: previewImageLoader, builder: builder)
     static var previews: some View {
         NavigationView {
             SearchView(viewModel: searchViewModel)

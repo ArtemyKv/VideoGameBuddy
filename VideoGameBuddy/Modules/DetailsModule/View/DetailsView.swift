@@ -8,13 +8,39 @@
 import SwiftUI
 
 struct DetailsView: View {
+    @StateObject var viewModel: DetailsViewModel
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ScrollView {
+            VStack {
+                Group {
+                    Image(uiImage: viewModel.image)
+                    Text(viewModel.rating)
+                    Divider()
+                    Text(viewModel.name)
+                    Divider()
+                    Text(viewModel.releaseDate)
+                    Divider()
+                    Text(viewModel.genres)
+                    Divider()
+                }
+                Group {
+                    Text(viewModel.platforms)
+                    Divider()
+                    Text(viewModel.summary)
+                    Divider()
+                    Text(viewModel.storyline)
+                }
+            }
+        }
     }
 }
 
 struct DetailsView_Previews: PreviewProvider {
+    static let builder = MainBuilder()
+    static let game = Game.preview
+    
     static var previews: some View {
-        DetailsView()
+        DetailsView(viewModel: builder.detailsViewModel(game: game))
     }
 }

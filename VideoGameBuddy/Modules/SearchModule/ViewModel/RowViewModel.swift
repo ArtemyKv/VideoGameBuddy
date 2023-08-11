@@ -10,8 +10,7 @@ import UIKit.UIImage
 
 final class RowViewModel: ObservableObject {
     var game: Game
-    var networkService: APIService!
-    private var imageLoadingTask: Task<Void, Never>?
+    var imageLoader: ImageLoadable!
     
     var name: String = ""
     
@@ -26,10 +25,6 @@ final class RowViewModel: ObservableObject {
         setup()
     }
     
-    deinit {
-        imageLoadingTask?.cancel()
-    }
-    
     private func setup() {
         name = game.name
         releaseDate = releaseDateString() ?? ""
@@ -39,7 +34,7 @@ final class RowViewModel: ObservableObject {
     
     private func releaseDateString() -> String? {
         guard let releaseDate = game.releaseDate else { return nil }
-        let date = Date(timeIntervalSince1970: Double(releaseDate))
+        let date = Date(timeIntervalSince1970: releaseDate)
         let formatter = DateFormatter()
         formatter.dateFormat = "YYYY"
         return formatter.string(from: date)
@@ -58,12 +53,20 @@ final class RowViewModel: ObservableObject {
     
     func getImage() {
         guard let imageID = game.coverID else { return }
-        imageLoadingTask = Task { @MainActor in
+        Task { @MainActor in
             do {
-                self.image = try await networkService.getImage(imageID: imageID)
+                self.image = try await imageLoader.fetch(withImageID: imageID)
             } catch let error {
                 print(error)
             }
         }
     }
+}
+
+extension RowViewModel: Equatable {
+    static func == (lhs: RowViewModel, rhs: RowViewModel) -> Bool {
+        lhs.game == rhs.game
+    }
+    
+    
 }

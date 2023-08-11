@@ -15,16 +15,23 @@ protocol Builder: ObservableObject {
 class MainBuilder: Builder {
     
     let authManager: Authorization = AuthorizationManager()
+    let imageLoader: ImageLoadable = ImageLoader()
     lazy var networkService: APIService = NetworkService(authManager: authManager)
     
     func searchViewModel() -> SearchViewModel {
-        let searchViewModel = SearchViewModel(networkService: networkService, builder: self)
+        let searchViewModel = SearchViewModel(networkService: networkService, imageLoader: imageLoader, builder: self)
         return searchViewModel
     }
     
     func rowViewModel(game: Game) -> RowViewModel {
         let rowViewModel = RowViewModel(game: game)
-        rowViewModel.networkService = networkService
+        rowViewModel.imageLoader = imageLoader
         return rowViewModel
+    }
+    
+    func detailsViewModel(game: Game) -> DetailsViewModel {
+        let detailsViewModel = DetailsViewModel(game: game)
+        detailsViewModel.imageLoader = imageLoader
+        return detailsViewModel
     }
 }
