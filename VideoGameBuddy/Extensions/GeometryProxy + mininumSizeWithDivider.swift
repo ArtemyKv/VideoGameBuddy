@@ -6,3 +6,10 @@
 //
 
 import Foundation
+import SwiftUI
+
+extension GeometryProxy {
+    func minimumSizeApplyingDivider(_ divider: CGFloat) -> CGFloat {
+        return (self.size.width < self.size.height) ? self.size.width / divider : self.size.height / divider
+    }
+}

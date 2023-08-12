@@ -19,7 +19,9 @@ final class DetailsViewModel: ObservableObject {
     var platforms: String = ""
     var summary: String = ""
     var storyline: String = ""
-    var rating: String = ""
+    var rating: Int = 0
+    
+    var rowTitles = ["Genres", "Platforms", "Summary", "Storyline"]
     
     @Published var image: UIImage = UIImage(systemName: "photo")!
     
@@ -36,7 +38,7 @@ final class DetailsViewModel: ObservableObject {
         platforms = makePlatformsString()
         summary = game.summary
         storyline = game.storyline
-        rating = makeRatingString()
+        rating = Int(game.rating ?? 0)
     }
     
     private func makeGenresString() -> String {
